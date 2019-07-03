@@ -1,0 +1,8 @@
+#surefire
+#Tue Jun 04 19:00:12 CLT 2019
+maven.ext.class.path=C\:\\Program Files\\NetBeans 8.2\\java\\maven-nblib\\netbeans-eventspy.jar
+user.dir=C\:\\Users\\Nadie\\Documents\\NetBeansProjects\\PrototipoCasinoVirtual
+file.encoding=UTF-8
+localRepository=C\:\\Users\\Nadie\\.m2\\repository
+basedir=C\:\\Users\\Nadie\\Documents\\NetBeansProjects\\PrototipoCasinoVirtual
+test=testMenu

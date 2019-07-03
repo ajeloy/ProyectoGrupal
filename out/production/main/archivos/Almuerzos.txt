@@ -1,0 +1,7 @@
+nombre;precio;nombre;precio;dia
+Pure;2000;Porotos;1950;(1)
+Tallarines;2000;Arvejas;1950;(2)
+Papas fritas;2000;Porotos;1950;(3)
+Pastel de papas;2000;Lentejas;1950;(4)
+Arroz;2000;Arvejas;1950,(5)
+Tallarines;2000;Lentejas;1950;(6)

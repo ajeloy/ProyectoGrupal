@@ -1,0 +1,5 @@
+tipoComida;característica1;característica2;característica3
+Bocadillo;Jamón o Queso;Porotos verdes;Palta y Tomate
+Refresco;Alto en Azúcares;591 ml;Botella desechable
+Almuerzo Ejecutivo;Ensalada o Sopa;Postre o Fruta;Pan;Jugo o Agua
+Almuerzo Vegetariano;Ensalada o Sopa;Postre o Fruta;Pan;Jugo o Agua

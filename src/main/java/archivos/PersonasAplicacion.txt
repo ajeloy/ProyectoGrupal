@@ -1,0 +1,5 @@
+rut;claveAplicacion;nombre;tipoConsumidor
+193062237;6666;Alex Muñoz;alumno
+192851971;1234;Jonathan Lizama;alumno
+129301961;5555;Erwin Henriquez;profesor
+116558319;8902;Leonardo Balart;profesor
